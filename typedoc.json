@@ -1,6 +1,7 @@
 {
   "entryPoints": [
-    "./src/*"
+    "./src/interfaces/*",
+    "./src/classes/*"
   ],
   "out": "./docs"
 }
